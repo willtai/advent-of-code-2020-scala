@@ -1,1 +1,2 @@
-# advent-of-code-2020-scala
+# Advent of Code 2020
+Learning Scala through https://adventofcode.com/.
